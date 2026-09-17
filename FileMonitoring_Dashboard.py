@@ -60,8 +60,8 @@ st.markdown(
 )
 
 # --- SUPABASE INITIALIZATION ---
-SUPABASE_URL = st.secrets["SUPABASE_URL"]
-SUPABASE_KEY = st.secrets["SUPABASE_KEY"]
+SUPABASE_URL = st.secrets["https://qingxpnfpebpxyjutvyy.supabase.co"]
+SUPABASE_KEY = st.secrets["sb_publishable_zrrQchzu2X61An-t3HPayA_6IHLKGUS"]
 
 
 @st.cache_resource
